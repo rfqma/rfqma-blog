@@ -3,7 +3,7 @@
 import MarqueeAnimation from "@/components/bundui/marquee-effect";
 import { Center } from "@mantine/core";
 import { useEffect } from "react";
-import { Card, Button } from "@mantine/core";
+import { Button } from "@mantine/core";
 import { IconArrowLeft } from "@tabler/icons-react";
 
 export default function Home() {
